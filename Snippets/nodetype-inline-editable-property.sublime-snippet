@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+'$1':
+	type: 'string'
+	defaultValue: '${3:}'
+	ui:
+		inlineEditable: true
+		aloha:
+			format:${4: {\}}
+			table:${5: {\}}
+			link:${6: {\}}
+			list:${7: {\}}
+			alignment:${8: {\}}
+			formatlesspaste:
+				button: ${9:false}
+				formatlessPasteOption: ${10:true}
+			autoparagraph: ${11:false}
+]]></content>
+	<description>Neos: Inline-editable NodeType Property</description>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+'$1':
+	type: '${2:string}'
+	defaultValue: ${3:''}
+	ui:
+		label: '${4:i18n}'
+		reloadIfChanged: ${5:true}
+		reloadPageIfChanged: ${6:false}
+		help:
+			message: ${7:~}
+		inspector:
+			group: '${8:default}'
+			position: ${9:~}
+			editor: ${10:~}
+			editorOptions:${11: {\}}
+]]></content>
+	<description>Neos: NodeType Property</description>
+</snippet>

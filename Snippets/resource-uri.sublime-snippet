@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+resource://$1/Private/${4:Templates}/${3:NodeTypes}/$2.${5:html}
+]]></content>
+	<description>Neos: Resource URI</description>
+	<tabTrigger>resource://</tabTrigger>
+</snippet>

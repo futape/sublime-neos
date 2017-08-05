@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+'$1':
+	superTypes:
+		'Neos.NodeTypes:Page': true
+	ui:
+		label: '${2:i18n}'
+		group: '${3:general}'
+		position: ${4:~}
+		icon: '${5:icon-file}'
+		help:
+			message: ${6:~}
+			thumbnail: ${7:~}
+	properties:
+		'title':
+			ui:
+				label: '${8:i18n}'
+		$0
+]]></content>
+	<description>Neos: Page NodeType</description>
+</snippet>

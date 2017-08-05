@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+'$1':
+	superTypes:
+		'Neos.Neos:Content': true
+	ui:
+		label: '${2:i18n}'
+		group: '${3:general}'
+		position: ${4:~}
+		icon: '${5:icon-edit}'
+		help:
+			message: ${6:~}
+			thumbnail: ${7:~}
+	properties:
+		$0
+]]></content>
+	<description>Neos: Content NodeType</description>
+</snippet>
