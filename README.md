@@ -24,43 +24,43 @@ A template for a Neos Content NodeType.
 
 Source: `Snippets/content-nodetype.sublime-snippet`
 
-### Page NodeType
+#### Page NodeType
 
 A template for a Neos Page NodeType.
 
 Source: `Snippets/page-nodetype.sublime-snippet`
 
-### NodeType Group
+#### NodeType Group
 
 A template for adding a tab with a group to a NodeType.
 
 Source: `Snippets/page-group.sublime-snippet`
 
-### NodeType Property
+#### NodeType Property
 
 A template for adding a NodeType Property accessible over the Neos inspector.
 
 Source: `Snippets/nodetype-property.sublime-snippet`
 
-### Inline-editable NodeType Property
+#### Inline-editable NodeType Property
 
 A template for adding an inline-editable Property to a NodeType editable using Aloha.
 
 Source: `Snippets/nodetype-inline-editable-property.sublime-snippet`
 
-### NodeType Property Validator
+#### NodeType Property Validator
 
 A template for adding a Validator to a NodeType Property.
 
 Source: `Snippets/nodetype-property-validator.sublime-snippet`
 
-### NodeType Property Validator
+#### NodeType Property Validator
 
 A template for adding a Validator to a NodeType Property.
 
 Source: `Snippets/nodetype-property-validator.sublime-snippet`
 
-### Resource URI
+#### Resource URI
 
 A template for a Neos `resource://` URI.
 
