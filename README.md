@@ -54,12 +54,6 @@ A template for adding a Validator to a NodeType Property.
 
 Source: `Snippets/nodetype-property-validator.sublime-snippet`
 
-#### NodeType Property Validator
-
-A template for adding a Validator to a NodeType Property.
-
-Source: `Snippets/nodetype-property-validator.sublime-snippet`
-
 #### Resource URI
 
 A template for a Neos `resource://` URI.
