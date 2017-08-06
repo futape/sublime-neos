@@ -60,8 +60,8 @@ A template for a Neos `resource://` URI.
 
 The added resource URI defaults to a NodeType template path but can be easily adjusted using fields.
 
-Tab Trigger: `resource://`
-Source: `Snippets/nodetype-property-validator.sublime-snippet`
+Tab Trigger: `resource://`  
+Source: `Snippets/resource-uri.sublime-snippet`
 
 
 
