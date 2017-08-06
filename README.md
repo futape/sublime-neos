@@ -34,7 +34,7 @@ Source: `Snippets/page-nodetype.sublime-snippet`
 
 A template for adding a tab with a group to a NodeType.
 
-Source: `Snippets/page-group.sublime-snippet`
+Source: `Snippets/nodetype-group.sublime-snippet`
 
 #### NodeType Property
 
