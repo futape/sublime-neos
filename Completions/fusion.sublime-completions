@@ -1,0 +1,14 @@
+{
+	"scope": "source.typoscript - string",
+	"completions":
+	[
+		{
+			"trigger": "$\t${…}",
+			"contents": "\\${$0}"
+		},
+		{
+			"trigger": "prototype\tprototype(…) {…}",
+			"contents": "prototype($1)$2 {\n\t$0\n}"
+		}
+	]
+}

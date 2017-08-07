@@ -1,0 +1,66 @@
+{
+	"scope": "source.typoscript - string",
+	"completions":
+	[
+		{
+			"trigger": "Page\tNeos.Neos.Page {…}",
+			"contents": "Neos.Neos.Page {\n\t$0\n}"
+		},
+		{
+			"trigger": "ContentCollection\tNeos.Neos.ContentCollection {…}",
+			"contents": "Neos.Neos.ContentCollection {\n\tnodePath = '$1'\n\t$0\n}"
+		},
+		{
+			"trigger": "PrimaryContent\tNeos.Neos.PrimaryContent {…}",
+			"contents": "Neos.Neos.PrimaryContent {\n\tnodePath = '$1'\n\t$0\n}"
+		},
+		{
+			"trigger": "ContentCase\tNeos.Neos.ContentCase {…}",
+			"contents": "Neos.Neos.ContentCase {\n\t$1 {\n\t\tcondition = $0\n\t}\n}"
+		},
+		{
+			"trigger": "Content\tNeos.Neos.Content {…}",
+			"contents": "Neos.Neos.Content {\n\t$0\n}"
+		},
+		{
+			"trigger": "Plugin\tNeos.Neos.Plugin {…}",
+			"contents": "Neos.Neos.Plugin {\n\tpackage = '$1'\n\tcontroller = '$2'\n\t$0\n}"
+		},
+		{
+			"trigger": "Menu\tNeos.Neos.Menu {…}",
+			"contents": "Neos.Neos.Menu {\n\t$0\n}"
+		},
+		{
+			"trigger": "BreadcrumbMenu\tNeos.Neos.BreadcrumbMenu {…}",
+			"contents": "Neos.Neos.BreadcrumbMenu {\n\t$0\n}"
+		},
+		{
+			"trigger": "BreadcrumbMenu\tNeos.Neos.BreadcrumbMenu {…}",
+			"contents": "Neos.Neos.BreadcrumbMenu {\n\t$0\n}"
+		},
+		{
+			"trigger": "NodeUri\tNeos.Neos:NodeUri {…}",
+			"contents": "Neos.Neos:NodeUri {\n\tnode = $0\n}"
+		},
+		{
+			"trigger": "ImageUri\tNeos.Neos:ImageUri {…}",
+			"contents": "Neos.Neos:ImageUri {\n\tasset = $0\n}"
+		},
+		{
+			"trigger": "ImageTag\tNeos.Neos:ImageTag {…}",
+			"contents": "Neos.Neos:ImageTag {\n\tasset = $0\n}"
+		},
+		{
+			"trigger": "ConvertUris\tNeos.Neos:ConvertUris {…}",
+			"contents": "Neos.Neos:ConvertUris"
+		},
+		{
+			"trigger": "ContentElementWrapping\tNeos.Neos:ContentElementWrapping {…}",
+			"contents": "Neos.Neos:ContentElementWrapping"
+		},
+		{
+			"trigger": "ContentElementEditable\tNeos.Neos:ContentElementEditable {…}",
+			"contents": "Neos.Neos:ContentElementEditable {\n\tproperty = $0\n}"
+		}
+	]
+}
