@@ -1,0 +1,134 @@
+{
+	"scope": "source.typoscript - string",
+	"completions":
+	[
+		{
+			"trigger": "Array\tNeos.Fusion:Array {…}",
+			"contents": "Neos.Fusion:Array {\n\t$0\n}"
+		},
+		{
+			"trigger": "RawArray\tNeos.Fusion:RawArray {…}",
+			"contents": "Neos.Fusion:RawArray {\n\t$0\n}"
+		},
+		{
+			"trigger": "Collection\tNeos.Fusion:Collection {…}",
+			"contents": "Neos.Fusion:Collection {\n\tcollection = $0\n}"
+		},
+		{
+			"trigger": "RawCollection\tNeos.Fusion:RawCollection {…}",
+			"contents": "Neos.Fusion:Collection {\n\tcollection = $0\n}"
+		},
+		{
+			"trigger": "Case\tNeos.Fusion:Case {…}",
+			"contents": "Neos.Fusion:Case {\n\t$1 {\n\t\tcondition = $0\n\t}\n}"
+		},
+		{
+			"trigger": "Debug\tNeos.Fusion:Debug {…}",
+			"contents": "Neos.Fusion:Debug {\n\t${1:value} = $0\n}"
+		},
+		{
+			"trigger": "Template\tNeos.Fusion:Template {…}",
+			"contents": "Neos.Fusion:Template {\n\ttemplatePath = 'resource://$1/Private/Templates/$2.html'\n\t$0\n}"
+		},
+		{
+			"trigger": "Value\tNeos.Fusion:Value {…}",
+			"contents": "Neos.Fusion:Value {\n\tvalue = $0\n}"
+		},
+		{
+			"trigger": "Value\tNeos.Fusion:Value {…}",
+			"contents": "Neos.Fusion:Value {\n\ttemplatePath = 'resource://$1/Private/Templates/$2.html'\n\t$0\n}"
+		},
+		{
+			"trigger": "Tag\tNeos.Fusion:Tag {…}",
+			"contents": "Neos.Fusion:Tag {\n\ttagName = '$1'\n\t$0\n}"
+		},
+		{
+			"trigger": "$\t${…}",
+			"contents": "\\${$0}"
+		},
+		{
+			"trigger": "Attributes\tNeos.Fusion:Attributes {…}",
+			"contents": "Neos.Fusion:Attributes {\n\t$0\n}"
+		},
+		{
+			"trigger": "Http.Message\tNeos.Fusion:Http.Message {…}",
+			"contents": "Neos.Fusion:Http.Message {\n\t$0\n}"
+		},
+		{
+			"trigger": "Http.ResponseHead\tNeos.Fusion:Http.ResponseHead {…}",
+			"contents": "Neos.Fusion:Http.ResponseHead {\n\t$0\n}"
+		},
+		{
+			"trigger": "UriBuilder\tNeos.Fusion:UriBuilder {…}",
+			"contents": "Neos.Fusion:UriBuilder {\n\tpackage = '$1'\n\tcontroller = '$2'\n\taction = '$3'\n\t$0\n}"
+		},
+		{
+			"trigger": "ResourceUri\tNeos.Fusion:ResourceUri {…}",
+			"contents": "Neos.Fusion:ResourceUri {\n\t$0\n}"
+		},
+		{
+			"trigger": "Page\tNeos.Neos.Page {…}",
+			"contents": "Neos.Neos.Page {\n\t$0\n}"
+		},
+		{
+			"trigger": "ContentCollection\tNeos.Neos.ContentCollection {…}",
+			"contents": "Neos.Neos.ContentCollection {\n\tnodePath = '$1'\n\t$0\n}"
+		},
+		{
+			"trigger": "PrimaryContent\tNeos.Neos.PrimaryContent {…}",
+			"contents": "Neos.Neos.PrimaryContent {\n\tnodePath = '$1'\n\t$0\n}"
+		},
+		{
+			"trigger": "ContentCase\tNeos.Neos.ContentCase {…}",
+			"contents": "Neos.Neos.ContentCase {\n\t$1 {\n\t\tcondition = $0\n\t}\n}"
+		},
+		{
+			"trigger": "Content\tNeos.Neos.Content {…}",
+			"contents": "Neos.Neos.Content {\n\t$0\n}"
+		},
+		{
+			"trigger": "Plugin\tNeos.Neos.Plugin {…}",
+			"contents": "Neos.Neos.Plugin {\n\tpackage = '$1'\n\tcontroller = '$2'\n\t$0\n}"
+		},
+		{
+			"trigger": "Menu\tNeos.Neos.Menu {…}",
+			"contents": "Neos.Neos.Menu {\n\t$0\n}"
+		},
+		{
+			"trigger": "BreadcrumbMenu\tNeos.Neos.BreadcrumbMenu {…}",
+			"contents": "Neos.Neos.BreadcrumbMenu {\n\t$0\n}"
+		},
+		{
+			"trigger": "BreadcrumbMenu\tNeos.Neos.BreadcrumbMenu {…}",
+			"contents": "Neos.Neos.BreadcrumbMenu {\n\t$0\n}"
+		},
+		{
+			"trigger": "NodeUri\tNeos.Neos:NodeUri {…}",
+			"contents": "Neos.Neos:NodeUri {\n\tnode = $0\n}"
+		},
+		{
+			"trigger": "ImageUri\tNeos.Neos:ImageUri {…}",
+			"contents": "Neos.Neos:ImageUri {\n\tasset = $0\n}"
+		},
+		{
+			"trigger": "ImageTag\tNeos.Neos:ImageTag {…}",
+			"contents": "Neos.Neos:ImageTag {\n\tasset = $0\n}"
+		},
+		{
+			"trigger": "ConvertUris\tNeos.Neos:ConvertUris {…}",
+			"contents": "Neos.Neos:ConvertUris"
+		},
+		{
+			"trigger": "ContentElementWrapping\tNeos.Neos:ContentElementWrapping {…}",
+			"contents": "Neos.Neos:ContentElementWrapping"
+		},
+		{
+			"trigger": "ContentElementEditable\tNeos.Neos:ContentElementEditable {…}",
+			"contents": "Neos.Neos:ContentElementEditable {\n\tproperty = $0\n}"
+		},
+		{
+			"trigger": "prototype\tprototype(…) {…}",
+			"contents": "prototype($1)$2 {\n\t$0\n}"
+		}
+	]
+}
