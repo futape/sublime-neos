@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+$1 = Neos.Fusion:Tag {
+	tagName = '${2:div}'
+	content = ${q(node).property('$1')}
+
+	@process.editable = Neos.Neos:ContentElementEditable {
+		property = '$1'
+	}
+}
+]]></content>
+	<description>Fusion: Inline-editable tag</description>
+</snippet>

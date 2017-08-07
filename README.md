@@ -63,6 +63,12 @@ The added resource URI defaults to a NodeType template path but can be easily ad
 Tab Trigger: `resource://`  
 Source: `Snippets/resource-uri.sublime-snippet`
 
+#### Inline-editable tag
+
+A template for adding an inline-editable tag to your fusion.
+
+Source: `Snippets/fusion-inline-editable-tag.sublime-snippet`
+
 
 
 ## License
