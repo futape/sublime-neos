@@ -15,4 +15,5 @@ inspector:
 			collapsed: ${10:false}
 ]]></content>
 	<description>Neos: NodeType Group</description>
+	<scope>source.yaml</scope>
 </snippet>

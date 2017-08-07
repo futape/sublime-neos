@@ -18,4 +18,5 @@
 		$0
 ]]></content>
 	<description>Neos: Page NodeType</description>
+	<scope>source.yaml</scope>
 </snippet>

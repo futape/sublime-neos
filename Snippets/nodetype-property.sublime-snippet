@@ -16,4 +16,5 @@
 			editorOptions:${11: {\}}
 ]]></content>
 	<description>Neos: NodeType Property</description>
+	<scope>source.yaml</scope>
 </snippet>

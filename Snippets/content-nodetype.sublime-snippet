@@ -15,4 +15,5 @@
 		$0
 ]]></content>
 	<description>Neos: Content NodeType</description>
+	<scope>source.yaml</scope>
 </snippet>

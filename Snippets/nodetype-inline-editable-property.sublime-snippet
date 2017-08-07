@@ -17,4 +17,5 @@
 			autoparagraph: ${11:false}
 ]]></content>
 	<description>Neos: Inline-editable NodeType Property</description>
+	<scope>source.yaml</scope>
 </snippet>

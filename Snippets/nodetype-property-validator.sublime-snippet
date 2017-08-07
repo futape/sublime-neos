@@ -4,4 +4,5 @@ validation:
 	'Neos.Neos/Validation/$1Validator':${2: {\}}
 ]]></content>
 	<description>Neos: NodeType Property Validator</description>
+	<scope>source.yaml</scope>
 </snippet>
