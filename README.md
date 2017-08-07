@@ -70,6 +70,15 @@ A template for adding an inline-editable tag to your fusion.
 Source: `Snippets/fusion-inline-editable-tag.sublime-snippet`
 
 
+## Completion
+
+### Fusion
+
+Auto-completion for Fusion/TypoScript is included for the Fusion prototypes shipped with Neos. For a list see the [official documentation](http://neos.readthedocs.io/en/stable/References/NeosFusionReference.html).  
+A few more auto-completions for common structures are also included.
+
+The auto-completion is scoped to the `source.typoscript` shipped with the [TypoScript package](https://packagecontrol.io/packages/TypoScript) by Daniel Siepmann, so you have to install that one to use Fusion auto-completion.
+
 
 ## License
 
